@@ -1,6 +1,11 @@
 # Expense Tracker (C++)
 
-A console-based Expense Tracking and Budget Planner built using C++ and Object-Oriented Programming concepts.
+![Language](https://img.shields.io/badge/LANGUAGE-C++-blue)
+![Project](https://img.shields.io/badge/PROJECT-Expense%20Tracker-green)
+![Type](https://img.shields.io/badge/TYPE-Console-orange)
+![Level](https://img.shields.io/badge/LEVEL-Beginner-red)
+
+A console-based Expense Tracking and Budget Planner built using C++.
 
 ## Features
 - Set monthly budget
